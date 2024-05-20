@@ -427,7 +427,7 @@ global.dfail = (type, m, conn) => {
         private: '• Esta función solo se puede usar en el chat *privado* de la bot',
         admin: '• Esta función es solo para *admins* del grupo',
         botAdmin: '• Para ejecutar esta función debo ser *administradora*',
-        unreg: 'Regístrese para usar esta función  Escribiendo:\n\n*/reg nombre.edad*\n\n🍭 Ejemplo : */reg おDaniel.666*',
+        unreg: 'Regístrese para usar esta función  Escribiendo:\n\n*/reg nombre.edad*',
         restrict: '• Esta función está *deshabilitada*',
         nsfw: '• En este grupo está prohibido el contenido +18'
     }[type]
