@@ -44,7 +44,7 @@
 		"@whiskeysockets/baileys": "^6.6.0",
 		"@ibaraki-douji/pixivts": "^2.4.1",
 		"@bochilteam/scraper-sosmed": "^1.0.5",
-		"kennby-scraper": "github:kennby/-svrap",
+		"@SumiFX/Scraper": "github:kennby/Scrap",
 		"awesome-phonenumber": "^6.4.0",
 		"@xct007/frieren-scraper": "^0.0.2",
 		"instagram-url-direct": "^1.0.13",
